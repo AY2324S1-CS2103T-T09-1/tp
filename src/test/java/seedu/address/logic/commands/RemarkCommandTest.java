@@ -24,7 +24,6 @@ import static seedu.address.testutil.TypicalPersons.getTypicalAddressBook;
  */
 class RemarkCommandTest {
     private static final String REMARK_STUB = "Some remark";
-    private static final String VALID_REMARK_BOB = ;
 
     private Model model = new ModelManager(getTypicalAddressBook(), new UserPrefs());
 
@@ -76,4 +75,5 @@ class RemarkCommandTest {
 
         assertCommandSuccess(remarkCommand, model, expectedMessage, expectedModel);
     }
+
 }
