@@ -8,10 +8,11 @@
         "about-us": "About Us",
         "project-team": "Project team",
         "john-doe": "John Doe",
+        "jaryl-goh-jun-zhong": "Jaryl Goh Jun Zhong",
         "shankar-anand": "Shankar Anand",
         "johnny-doe": "Johnny Doe",
         "jean-doe": "Jean Doe",
-        "james-doe": "James Doe"
+        "khaleelur-rahman": "Khaleelur Rahman"
       },
       "headingKeywords": {}
     },
@@ -132,6 +133,14 @@
       "title": "",
       "headings": {
         "addressbook-level-3": "AddressBook Level-3"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "team/khaleelur-rahman.md",
+      "title": "Khaleelur Rahman's Project Portfolio Page",
+      "headings": {
+        "project-jobfestgo": "Project: JobFestGo"
       },
       "headingKeywords": {}
     },
