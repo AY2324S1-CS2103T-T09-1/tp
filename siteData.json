@@ -8,11 +8,10 @@
         "about-us": "About Us",
         "project-team": "Project team",
         "khaleelur-rahman": "Khaleelur Rahman",
+        "tong-xinyao": "Tong Xinyao",
         "jaryl-goh-jun-zhong": "Jaryl Goh Jun Zhong",
         "shankar-anand": "Shankar Anand",
-        "johnny-doe": "Johnny Doe",
-        "choo-tze-jie": "Choo Tze Jie",
-        "james-doe": "James Doe"
+        "choo-tze-jie": "Choo Tze Jie"
       },
       "headingKeywords": {}
     },
@@ -172,7 +171,7 @@
       "headingKeywords": {}
     },
     {
-      "src": "team/xyT-T.md",
+      "src": "team/xyt-t.md",
       "title": "Tong Xinyao's Project Portfolio Page",
       "headings": {
         "project-jobfestgo": "Project: JobFestGo"
