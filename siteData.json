@@ -8,10 +8,10 @@
         "about-us": "About Us",
         "project-team": "Project team",
         "john-doe": "John Doe",
-        "jane-doe": "Jane Doe",
+        "shankar-anand": "Shankar Anand",
         "johnny-doe": "Johnny Doe",
         "jean-doe": "Jean Doe",
-        "james-doe": "James Doe"
+        "khaleelur-rahman": "Khaleelur Rahman"
       },
       "headingKeywords": {}
     },
@@ -136,6 +136,14 @@
       "headingKeywords": {}
     },
     {
+      "src": "team/khaleelur-rahman.md",
+      "title": "Khaleelur Rahman's Project Portfolio Page",
+      "headings": {
+        "project-jobfestgo": "Project: JobFestGo"
+      },
+      "headingKeywords": {}
+    },
+    {
       "src": "team/rionshocker.md",
       "title": "Jaryl Goh Jun Zhong's Project Portfolio Page",
       "headings": {
@@ -146,6 +154,14 @@
     {
       "src": "team/tjch-o.md",
       "title": "Choo Tze Jie's Project Portfolio Page",
+      "headings": {
+        "project-jobfestgo": "Project: JobFestGo"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "team/vijay-shankaranand.md",
+      "title": "Vijayanandan Shankar Anand's Project Portfolio Page",
       "headings": {
         "project-jobfestgo": "Project: JobFestGo"
       },
