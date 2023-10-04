@@ -144,6 +144,14 @@
       "headingKeywords": {}
     },
     {
+      "src": "team/tjch-o.md",
+      "title": "Choo Tze Jie's Project Portfolio Page",
+      "headings": {
+        "project-jobfestgo": "Project: JobFestGo"
+      },
+      "headingKeywords": {}
+    },
+    {
       "src": "tutorials/AddRemark.md",
       "title": "Tutorial: Adding a command",
       "headings": {
