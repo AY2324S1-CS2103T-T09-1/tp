@@ -11,7 +11,7 @@
         "shankar-anand": "Shankar Anand",
         "johnny-doe": "Johnny Doe",
         "jean-doe": "Jean Doe",
-        "khaleelur-rahman": "Khaleelur Rahman"
+        "james-doe": "James Doe"
       },
       "headingKeywords": {}
     },
@@ -132,14 +132,6 @@
       "title": "",
       "headings": {
         "addressbook-level-3": "AddressBook Level-3"
-      },
-      "headingKeywords": {}
-    },
-    {
-      "src": "team/khaleelur-rahman.md",
-      "title": "Khaleelur Rahman's Project Portfolio Page",
-      "headings": {
-        "project-jobfestgo": "Project: JobFestGo"
       },
       "headingKeywords": {}
     },
