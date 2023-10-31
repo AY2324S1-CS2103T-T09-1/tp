@@ -115,7 +115,7 @@
         "listing-all-contacts-view-contacts": "Listing all contacts : view_contacts",
         "deleting-a-contact-delete-contact": "Deleting a contact : delete_contact",
         "editing-a-contact-edit-contact": "Editing a contact : edit_contact",
-        "locating-contacts-by-name-find": "Locating contacts by name: find",
+        "locating-contacts-by-name-find-contact": "Locating contacts by name: find_contact",
         "adding-a-tag-add-tag": "Adding a tag : add_tag",
         "viewing-all-tags-view-tags": "Viewing all tags: view_tags",
         "deleting-a-tag-delete-tag": "Deleting a tag: delete_tag",
