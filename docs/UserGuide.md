@@ -35,10 +35,10 @@ that you might not remember and organise your tasks neatly.
     - [Unlinking contacts from an event: `unlink`](#unlinking-contacts-from-an-event-unlink)
     - [Selecting an event: `select_event`](#selecting-an-event-select_event)
     - [Adding a task : `add_task`](#adding-a-task--add_task)
-    - [Viewing help : `help`](#viewing-help--help)
     - [Deleting a task: `delete_task`](#deleting-a-task-delete_task)
     - [Marking a task: `mark_task`](#marking-a-task-mark_task)
     - [Unmarking a task: `unmark_task`](#unmarking-a-task-unmark_task)
+    - [Viewing help : `help`](#viewing-help--help)
     - [Clearing all entries : `clear`](#clearing-all-entries--clear)
     - [Returning to home page : `home`](#returning-to-home-page--home)
     - [Exiting the program : `exit`](#exiting-the-program--exit)
@@ -118,7 +118,7 @@ Format: `add_contact n/NAME p/PHONE_NUMBER e/EMAIL a/ADDRESS [t/TAG]…​`
 
 
 * A contact can have any number of tags
-* A contact must have mandatory fields name, phone number, email and address
+* A contact must have the following mandatory fields: name, phone number, email and address
 * Email should be in the appropriate (@xxx.com) format
 * Phone number should be in appropriate (8-digit numeric) format
 * Only tags from tags list can be used for tagging a contact
@@ -293,7 +293,7 @@ Format: `link ev/EVENT_NAME c/CONTACT_NAME [c/MORE_CONTACT_NAMES]`
 * The order of the input does not matter. e.g. `link ev/NUS Career Fest c/Alice Black`
  and `link c/Alice Black ev/NUS Career Fest` are both valid commands and will perform
  the same task.
-* If there are invalid contacts in the input (e.g. non-existent contacts,
+* If there are invalid contacts in the input (e.g. non-existent contacts or
  contacts that are already linked to the specified event), the contacts entered
  before the first invalid contact will be linked while those after will not be linked.
  e.g. if `John Doe` is an invalid contact, `link ev/NUS Career Fest c/Alice Black
@@ -336,7 +336,7 @@ Adds a task to an event in JobFestGo.
 
 Format: `add_task td/TASK_DESCRIPTION d/DEADLINE ev/EVENT_NAME`
 
-* Task Description can take any value, no limit to the type of characters.
+* Task Description can take any value. There is no limit to the type of characters.
 * Deadline is a date in the format YYYY-MM-DD.
 * Deadline should not be before today's date.
 * Event name should be the **name of an already existing event**.
@@ -355,7 +355,7 @@ Format: `delete_task td/TASK_DESCRIPTION ev/EVENT_NAME`
  e.g. `delete_task td/Book Venue ev/NUS Career Fair 2023` and `delete_task td/book venue ev/nus Career FAIR 2023`
  will perform the same operation.
 * Errors will be raised if the specified event does not exist or the event does not have the specified task.
- If such situation happens, you may double-check the task description and the event name and reenter valid inputs.
+ If such a situation happens, you should double-check the task description and the event name and re-enter valid inputs.
 
 Examples:
 * `delete_task td/Book Venue ev/NUS Career Fair 2023` deletes task `Book Venue` from the task list of the event `NUS Career Fair 2023`.
@@ -372,7 +372,7 @@ Format: `mark_task td/TASK_DESCRIPTION ev/EVENT_NAME`
   e.g. `mark_task td/Book Venue ev/NUS Career Fair 2023` and `mark_task td/book venue ev/nus Career FAIR 2023`
   will perform the same operation.
 * Errors will be raised if the specified event does not exist or the event does not have the specified task.
-  If such situation happens, you may double-check the task description and the event name and reenter valid inputs.
+  If such a situation happens, you should double-check the task description and the event name and re-enter valid inputs.
 * Errors will also be raised if the specified task has already been marked as completed.
 
 Examples:
@@ -386,7 +386,7 @@ Format: `unmark_task td/TASK_DESCRIPTION ev/EVENT_NAME`
 
 * It works exactly the same way as `mark_task` except for the fact that `unmark_task` marks a completed task as not completed.
 * You may `unmark_task` a task when you realize that you have not completed the task but have wrongly marked it as completed.
-* Errors will be raised if the specified task has already been marked as completed.
+* Errors will be raised if the specified task has already been marked as not completed.
 
 Examples:
 * `unmark_task td/Book Venue ev/NUS Career Fair 2023` marks the task `Book Venue` from the task list of the event `NUS Career Fair 2023` as not completed.
