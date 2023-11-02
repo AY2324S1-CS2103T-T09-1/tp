@@ -108,7 +108,6 @@
       "title": "User Guide",
       "headings": {
         "jobfestgo-user-guide": "JobFestGo User Guide",
-        "jobfestgo-is-a-desktop-app-for-managing-contacts-and-tasks-optimized-for-use-via-a-command-line-interface-cli-while-still-having-the-benefits-of-a-graphical-user-interface-gui-it-is-a-task-management-tool-meant-to-assist-you-as-job-festival-event-planners-in-cold-calling-various-contacts-e-g-vendors-customers-and-other-event-related-tasks-this-removes-the-hassle-of-having-to-shuffle-through-your-contact-list-based-on-names-that-you-might-not-remember-and-organise-your-tasks-neatly": "JobFestGo is a desktop app for managing contacts and tasks, optimized for use via a Command Line Interface (CLI)\nwhile still having the benefits of a Graphical User Interface (GUI). It is a task management tool\nmeant to assist you as job festival event planners in cold-calling various contacts (e.g. vendors, customers) and\nother event-related tasks. This removes the hassle of having to shuffle through your contact list based on names\nthat you might not remember and organise your tasks neatly.",
         "table-of-contents": "Table of Contents",
         "quick-start": "Quick start",
         "features": "Features",
@@ -140,7 +139,6 @@
         "archiving-data-files-coming-in-v2-0": "Archiving data files [coming in v2.0]",
         "progress-bar-for-completed-tasks-of-an-event-coming-in-v2-0": "Progress bar for completed tasks of an event [coming in v2.0]",
         "faq": "FAQ",
-        "q-how-can-i-check-my-java-version-a-open-a-command-prompt-and-type-java-version-if-you-do-not-have-java-installed-you-can-download-it-here": "Q: How can i check my java version?\nA: Open a command prompt and type java -version . If you do not have Java installed, you\ncan download it here",
         "known-issues": "Known issues",
         "command-summary": "Command summary"
       },
