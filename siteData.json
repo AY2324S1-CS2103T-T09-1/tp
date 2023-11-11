@@ -64,7 +64,13 @@
         "glossary": "Glossary",
         "appendix-instructions-for-manual-testing": "Appendix: Instructions for manual testing",
         "launch-and-shutdown": "Launch and shutdown",
+        "adding-a-contact": "Adding a contact",
+        "listing-all-contacts": "Listing all contacts",
         "deleting-a-contact": "Deleting a contact",
+        "editing-a-contact": "Editing a contact",
+        "locating-contacts-by-name": "Locating contacts by name",
+        "deleting-a-tag": "Deleting a tag",
+        "selecting-an-event": "Selecting an event",
         "saving-data": "Saving data"
       },
       "headingKeywords": {}
