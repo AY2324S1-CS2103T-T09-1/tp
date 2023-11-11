@@ -53,6 +53,7 @@
         "implementation": "Implementation",
         "return-to-home-page-feature": "Return to home page feature",
         "select-event-feature": "Select Event Feature",
+        "add-tag-feature": "Add Tag Feature",
         "link-unlink-feature": "Link/unlink Feature",
         "proposed-undo-redo-feature": "[Proposed] Undo/redo feature",
         "proposed-data-archiving": "[Proposed] Data archiving",
@@ -71,10 +72,13 @@
         "deleting-a-contact": "Deleting a contact",
         "editing-a-contact": "Editing a contact",
         "locating-contacts-by-name": "Locating contacts by name",
+        "adding-a-tag": "Adding a tag",
         "viewing-all-tags": "Viewing all tags",
         "deleting-a-tag": "Deleting a tag",
+        "deleting-an-event": "Deleting an event",
         "viewing-all-events": "Viewing all events",
         "selecting-an-event": "Selecting an event",
+        "adding-a-task": "Adding a task",
         "saving-data": "Saving data"
       },
       "headingKeywords": {}
