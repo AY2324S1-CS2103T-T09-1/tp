@@ -41,6 +41,7 @@
       "title": "Developer Guide",
       "headings": {
         "jobfestgo-developer-guide": "JobFestGo Developer Guide",
+        "table-of-content": "Table of Content",
         "acknowledgements": "Acknowledgements",
         "setting-up-getting-started": "Setting up, getting started",
         "design": "Design",
@@ -64,6 +65,7 @@
         "use-cases": "Use cases",
         "non-functional-requirements": "Non-Functional Requirements",
         "glossary": "Glossary",
+        "appendix-effort": "Appendix: Effort",
         "appendix-instructions-for-manual-testing": "Appendix: Instructions for manual testing",
         "launch-and-shutdown": "Launch and shutdown",
         "returning-to-home-page": "Returning to home page",
