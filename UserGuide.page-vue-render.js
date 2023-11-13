@@ -170,7 +170,7 @@ with(this){return _c('p',[_v("Format: "),_c('code',{pre:true,attrs:{"class":"hlj
 with(this){return _c('ul',[_c('li',[_v("The tag name "),_c('strong',[_v("must not already exist")]),_v(" in JobFestGo.")]),_v(" "),_c('li',[_v("The tag name must be strictly alphanumeric. No other characters (including whitespace) are allowed.")])])}
 },function anonymous(
 ) {
-with(this){return _c('ul',[_c('li',[_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("add_tag t/vendors")])])])}
+with(this){return _c('ul',[_c('li',[_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("add_tag t/media")])])])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_v("Return to "),_c('a',{attrs:{"href":"#table-of-contents"}},[_v("table of contents")]),_v(".")])}
@@ -230,7 +230,7 @@ with(this){return _c('p',[_v("Format: "),_c('code',{pre:true,attrs:{"class":"hlj
 with(this){return _c('ul',[_c('li',[_v("Event name can only take alphanumeric values.")]),_v(" "),_c('li',[_v("The event name "),_c('strong',[_v("must not already exist")]),_v(" in JobFestGo.")]),_v(" "),_c('li',[_v("Event name and address should not have more than one whitespace in-between each word.")]),_v(" "),_c('li',[_v("If the event name is very long and cannot be viewed fully, enter "),_c('a',{attrs:{"href":"#viewing-all-events-view-events"}},[_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("view_events")])]),_v(" to see the full text.")]),_v(" "),_c('li',[_v("Date must be valid and should be in the appropriate (YYYY-MM-DD) format.")]),_v(" "),_c('li',[_v("Date should "),_c('strong',[_v("not")]),_v(" be before the current date.")]),_v(" "),_c('li',[_v("Past the date of the event, the event will be labelled as completed next to its name in event list.")])])}
 },function anonymous(
 ) {
-with(this){return _c('ul',[_c('li',[_c('p',[_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("add_event n/CS2103T Presentation d/2023-11-10 a/311, Clementi Ave 2, #02-25")]),_v(" adds an event named "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("CS2103T Presentation")]),_v(" to JobFestGo.")]),_v(" "),_c('p',[_c('a',{attrs:{"href":"/tp/images/addEventResult.png","target":"_self"}},[_c('img',{staticClass:"img-fluid",attrs:{"src":"/tp/images/addEventResult.png","alt":"result for 'add_event'"}})])])])])}
+with(this){return _c('ul',[_c('li',[_c('p',[_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("add_event n/CS2103T Presentation d/2023-12-10 a/311, Clementi Ave 2, #02-25")]),_v(" adds an event named "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("CS2103T Presentation")]),_v(" to JobFestGo.")]),_v(" "),_c('p',[_c('a',{attrs:{"href":"/tp/images/addEventResult.png","target":"_self"}},[_c('img',{staticClass:"img-fluid",attrs:{"src":"/tp/images/addEventResult.png","alt":"result for 'add_event'"}})])])])])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_v("Return to "),_c('a',{attrs:{"href":"#table-of-contents"}},[_v("table of contents")]),_v(".")])}
@@ -290,7 +290,7 @@ with(this){return _c('p',[_v("Format: "),_c('code',{pre:true,attrs:{"class":"hlj
 with(this){return _c('ul',[_c('li',[_v("Event name and contact name should not have more than one whitespace in-between each word.")])])}
 },function anonymous(
 ) {
-with(this){return _c('ul',[_c('li',[_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("unlink ev/NUS Career Fest c/Alice Black")]),_v(" unlinks "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("Alice Black")]),_v(" from the event "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("NUS Career Fest")]),_v(" if "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("Alice Black")]),_v(" is linked to "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("NUS Career Fest")]),_v(".")])])}
+with(this){return _c('ul',[_c('li',[_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("unlink ev/NUS Career Fair 2023 c/David Li")]),_v(" unlinks "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("David Li")]),_v(" from the event "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("NUS Career Fair 2023")]),_v(" if "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("David Li")]),_v(" is linked to "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("NUS Career Fair 2023")]),_v(".")])])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_v("Return to "),_c('a',{attrs:{"href":"#table-of-contents"}},[_v("table of contents")]),_v(".")])}
@@ -347,10 +347,10 @@ with(this){return _c('h3',{attrs:{"id":"marking-a-task-mark-task"}},[_v("Marking
 with(this){return _c('p',[_v("Format: "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("mark_task td/TASK_DESCRIPTION ev/EVENT_NAME")])])}
 },function anonymous(
 ) {
-with(this){return _c('ul',[_c('li',[_v("Marks the task specified by the "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("TASK_DESCRIPTION")]),_v(" from the event specified by the "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("EVENT_NAME")]),_v(" of JobFestGo as completed.")]),_v(" "),_c('li',[_v("Task description and event name should not have more than one whitespace in-between each word.")]),_v(" "),_c('li',[_v("A label indicating the status of the task will be shown next to its description in the task list.")]),_v(" "),_c('li',[_v("Both the "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("TASK_DESCRIPTION")]),_v(" and the "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("EVENT_NAME")]),_v(" are case-insensitive.\ne.g. "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("mark_task td/Book Venue ev/NUS Career Fair 2023")]),_v(" and "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("mark_task td/book venue ev/nus Career FAIR 2023")]),_v("\nwill perform the same operation.")])])}
+with(this){return _c('ul',[_c('li',[_v("Marks the task specified by the "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("TASK_DESCRIPTION")]),_v(" from the event specified by the "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("EVENT_NAME")]),_v(" of JobFestGo as completed.")]),_v(" "),_c('li',[_v("Task description and event name should not have more than one whitespace in-between each word.")]),_v(" "),_c('li',[_v("A label indicating the status of the task will be shown next to its description in the task list.")]),_v(" "),_c('li',[_v("Both the "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("TASK_DESCRIPTION")]),_v(" and the "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("EVENT_NAME")]),_v(" are case-insensitive.\ne.g. "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("mark_task td/Order Food ev/NUS Career Fair 2023")]),_v(" and "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("mark_task td/order food ev/nus Career FAIR 2023")]),_v("\nwill perform the same operation.")])])}
 },function anonymous(
 ) {
-with(this){return _c('ul',[_c('li',[_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("mark_task td/Book Venue ev/NUS Career Fair 2023")]),_v(" marks the task "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("Book Venue")]),_v(" from the task list of the event "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("NUS Career Fair 2023")]),_v(" as completed.")])])}
+with(this){return _c('ul',[_c('li',[_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("mark_task td/Order Food ev/NUS Career Fair 2023")]),_v(" marks the task "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("Order Food")]),_v(" from the task list of the event "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("NUS Career Fair 2023")]),_v(" as completed.")])])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_c('a',{attrs:{"href":"/tp/images/markTaskResult.png","target":"_self"}},[_c('img',{staticClass:"img-fluid",attrs:{"src":"/tp/images/markTaskResult.png","alt":"result for 'mark_task'","width":"600"}})])])}
@@ -368,7 +368,7 @@ with(this){return _c('p',[_v("Format: "),_c('code',{pre:true,attrs:{"class":"hlj
 with(this){return _c('ul',[_c('li',[_v("Task description and event name should not have more than one whitespace in-between each word.")]),_v(" "),_c('li',[_v("It works exactly the same way as "),_c('a',{attrs:{"href":"#marking-a-task-mark-task"}},[_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("mark_task")])]),_v(" except for the fact that "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("unmark_task")]),_v(" marks a completed task as not completed.")]),_v(" "),_c('li',[_v("You may "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("unmark_task")]),_v(" a task when you realize that you have not completed the task but have wrongly marked it as completed.")])])}
 },function anonymous(
 ) {
-with(this){return _c('ul',[_c('li',[_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("unmark_task td/Book Venue ev/NUS Career Fair 2023")]),_v(" marks the task "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("Book Venue")]),_v(" from the task list of the event "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("NUS Career Fair 2023")]),_v(" as not completed.")])])}
+with(this){return _c('ul',[_c('li',[_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("unmark_task td/Order Food ev/NUS Career Fair 2023")]),_v(" marks the task "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("Order Food")]),_v(" from the task list of the event "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("NUS Career Fair 2023")]),_v(" as not completed.")])])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_v("Return to "),_c('a',{attrs:{"href":"#table-of-contents"}},[_v("table of contents")]),_v(".")])}
@@ -476,6 +476,6 @@ with(this){return _c('div',{staticClass:"table-responsive"},[_c('table',{staticC
 with(this){return _c('p',[_v("Return to "),_c('a',{attrs:{"href":"#table-of-contents"}},[_v("table of contents")]),_v(".")])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.1.0")]),_v(", generated on Mon, 13 Nov 2023, 23:16:58 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.1.0")]),_v(", generated on Mon, 13 Nov 2023, 23:30:18 GMT+8]")])])])}
 }];
   
