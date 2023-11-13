@@ -542,7 +542,7 @@ with(this){return _c('p',[_c('strong',[_v("Use case: Select an event")])])}
 with(this){return _c('p',[_c('strong',[_v("MSS")])])}
 },function anonymous(
 ) {
-with(this){return _c('ol',[_c('li',[_c('p',[_v("User requests to select an event.")])]),_v(" "),_c('li',[_c('p',[_v("JobFestGo displays the contacts and tasks related to the event.")])]),_v(" "),_c('li',[_c('p',[_v("User "),_c('u',[_v("adds a task")]),_v(" or "),_c('u',[_v("deletes a task")]),_v(" or "),_c('u',[_v("marks a task")]),_v(" or "),_c('u',[_v("unmarks a task")]),_v(".")]),_v(" "),_c('p',[_v("Use case ends.")])])])}
+with(this){return _c('ol',[_c('li',[_c('p',[_v("User requests to select an event.")])]),_v(" "),_c('li',[_c('p',[_v("JobFestGo displays the contacts and tasks related to the event.")]),_v(" "),_c('p',[_v("Use case ends.")])])])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_c('strong',[_v("Extensions")])])}
@@ -923,6 +923,6 @@ with(this){return _c('ol',[_c('li',[_c('p',[_c('strong',[_v("Make error messages
 with(this){return _c('p',[_v("Return to "),_c('a',{attrs:{"href":"#table-of-contents"}},[_v("table of contents")]),_v(".")])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.1.0")]),_v(", generated on Mon, 13 Nov 2023, 23:52:56 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.1.0")]),_v(", generated on Tue, 14 Nov 2023, 0:02:32 GMT+8]")])])])}
 }];
   
