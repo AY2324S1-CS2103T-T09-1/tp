@@ -569,7 +569,7 @@ with(this){return _c('ol',[_c('li',[_c('p',[_v("User requests to unlink specifie
 with(this){return _c('p',[_c('strong',[_v("Extensions")])])}
 },function anonymous(
 ) {
-with(this){return _c('ul',[_c('li',[_c('p',[_v("1a. The given event does not exist.")]),_v(" "),_c('ul',[_c('li',[_c('p',[_v("1a1. JobFestGo shows an error message.")]),_v(" "),_c('p',[_v("Use case resumes at step 1.")])])])]),_v(" "),_c('li',[_c('p',[_v("1b. One of the given contacts does not exist.")]),_v(" "),_c('ul',[_c('li',[_c('p',[_v("1b1. JobFestGo shows an error message.")]),_v(" "),_c('p',[_v("Use case ends.")])])])]),_v(" "),_c('li',[_c('p',[_v("1a. One of the given contacts is not linked to the given event.")]),_v(" "),_c('ul',[_c('li',[_c('p',[_v("1a1. JobFestGo shows an error message.")]),_v(" "),_c('p',[_v("Use case resumes at step 1.")])])])])])}
+with(this){return _c('ul',[_c('li',[_c('p',[_v("1a. The given event does not exist.")]),_v(" "),_c('ul',[_c('li',[_c('p',[_v("1a1. JobFestGo shows an error message.")]),_v(" "),_c('p',[_v("Use case resumes at step 1.")])])])]),_v(" "),_c('li',[_c('p',[_v("1b. One of the given contacts does not exist.")]),_v(" "),_c('ul',[_c('li',[_c('p',[_v("1b1. JobFestGo shows an error message.")]),_v(" "),_c('p',[_v("Use case resumes at step 1.")])])])]),_v(" "),_c('li',[_c('p',[_v("1a. One of the given contacts is not linked to the given event.")]),_v(" "),_c('ul',[_c('li',[_c('p',[_v("1a1. JobFestGo shows an error message.")]),_v(" "),_c('p',[_v("Use case resumes at step 1.")])])])])])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_c('strong',[_v("Use case: Add a task")])])}
@@ -914,6 +914,6 @@ with(this){return _c('ol',[_c('li',[_c('p',[_c('strong',[_v("Make error messages
 with(this){return _c('p',[_v("Return to "),_c('a',{attrs:{"href":"#table-of-contents"}},[_v("table of contents")]),_v(".")])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.1.0")]),_v(", generated on Mon, 13 Nov 2023, 21:31:28 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.1.0")]),_v(", generated on Mon, 13 Nov 2023, 22:10:54 GMT+8]")])])])}
 }];
   
